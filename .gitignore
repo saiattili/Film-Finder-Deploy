@@ -1,0 +1,8 @@
+target/
+ott-frontend/node_modules/
+ott-frontend/dist/
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
